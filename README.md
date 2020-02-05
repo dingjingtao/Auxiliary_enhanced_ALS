@@ -3,7 +3,7 @@ The implementation of AALS
 
 Auxiliary-enhanced eALS performs well by integrating users' multiple auxiliary data as the intermediate feedback. This is our official implementation for the paper: 
 
-Jingtao Ding, Guanghui Yu, Yong Li, Xiangnan He, Depeng Jin and Jiajie Yu, **Improving Implicit Recommender Systems with Auxiliary Data**, Under Major Revision in ACM Transactions on Information Systems (TOIS).
+Jingtao Ding, Guanghui Yu, Yong Li, Xiangnan He, Depeng Jin and Jiajie Yu, **Improving Implicit Recommender Systems with Auxiliary Data**, To appear in ACM Transactions on Information Systems (TOIS).
 
 If you use the codes, please cite our paper. Thanks!
 
